@@ -5,7 +5,7 @@ Code supporting the numerical simulations and analysis presented in “Mind the 
 
 code/         Main MATLAB scripts used for the numerical simulations
 
-utilities/    Supporting functions and common numerical routines
+figures/    Main figures used in the manuscript
 
 
 ## Authors
