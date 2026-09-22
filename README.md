@@ -3,8 +3,9 @@ Code supporting the numerical simulations and analysis presented in “Mind the 
 
 ## Repository structure
 
-code/         Main MATLAB scripts used for the numerical simulations\\
-utilities/    Supporting functions and common numerical routines\\
+code/         Main MATLAB scripts used for the numerical simulations
+
+utilities/    Supporting functions and common numerical routines
 
 
 ## Authors
