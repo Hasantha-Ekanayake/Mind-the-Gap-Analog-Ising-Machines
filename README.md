@@ -3,7 +3,7 @@ Code supporting the numerical simulations and analysis presented in “Mind the 
 
 ## Repository structure
 
-code/         Main MATLAB scripts used for the numerical simulations
+codes/         Main MATLAB scripts used for the numerical simulations
 
 figures/    Main figures used in the manuscript
 
